@@ -1,0 +1,21 @@
+.reduceSize{
+    padding: 100px;
+}
+.customBg{
+    background-color: #1c2b2d;
+    color: #f6f5f5;
+}
+
+.card{
+    color : #1c2b2d;
+    padding: 10px;
+}
+.lyfhead{
+    text-align: center;
+    margin: 2% 3% 2% 3% ;
+    background-color: aqua;
+}
+.h3head{
+    padding: 1%;
+    font-family: 'Courier New', Courier, monospace;
+}
